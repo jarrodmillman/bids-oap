@@ -7,9 +7,9 @@ Grant funded research should be published using grant money.
 
 ## Eligibility
 
-- Any BIDS post-doc, academic staff, or currently enrolled graduate student who has had
-  an open access article, chapter, or scholarly book accepted for publication,
-  and does not have other sources of funds to pay author processing charges.
+- Any BIDS junior fellow or staff who has an open access article, chapter, or
+  scholarly book accepted for publication, and does not have other sources of
+  funds to pay author processing charges.
 - Article, chapter, or scholarly book must pertain to BIDS mission.
 
 ## Restrictions 
@@ -27,6 +27,8 @@ We ask that funding recipients include the following statement in their acknowle
     This publication is funded [in full] [in part] by the Gordon and Betty
     Moore Foundation through Grant GBMF3834 and by the Alfred P. Sloan Foundation
     through Grant 2013-10-27 to the University of California, Berkeley.
+
+as well as list the Berkeley Institute for Data Science as affiliation.
 
 ## Other funding sources
 
