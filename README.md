@@ -14,11 +14,12 @@ Grant funded research should be published using grant money.
 
 ## Restrictions 
 
-- One application per individual per calendar year.
 - Fees will be subsidized only for fully open access journals or books (that
   is, the entire journal or book must be freely available to the public without
   a subscription or access fee).
 - BIDS will fund up to $2,500 in fees.
+- Each eligible individual may receive this funding no more than one time per
+  calendar year.
 
 ## Attribution
 
