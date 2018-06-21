@@ -26,3 +26,9 @@
 ## Authors
 
 - Should BIDS fund OA articles if the BIDS fellow is a minor author?  (first author doesn't apply in all fields)
+
+## Adding BIDS funding in acknowledgements
+
+- BIDS junior Fellows should already be listing BIDS funding in the Acknowledgement section. 
+  Perhaps there should be some clarifying language in the policy to say that junior Fellows
+  should already be acknowledging the fellowship funding?
