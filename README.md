@@ -42,7 +42,7 @@ of whether BIDS covers the OA publishing fee.
 
 The UC Academic Senate Open Access Policy (see link below) requires
 all UC authors to post a postprint or the author's final version
-of any article after October 19, 2015 on eScholarship (http://uc-oa.info/deposit)
+of any article published after October 19, 2015 on eScholarship (http://uc-oa.info/deposit)
 or provide a link to an OA version elsewhere (if available).
 
 - http://osc.universityofcalifornia.edu/open-access-policy/
