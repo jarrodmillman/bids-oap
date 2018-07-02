@@ -23,15 +23,26 @@ Grant funded research should be published using grant money.
 
 ## Attribution
 
-We ask that funding recipients include the following statement in their acknowledgements: 
+We ask that funding recipients include the following statement in their acknowledgments: 
 
     This publication is funded [in full] [in part] by the Gordon and Betty
     Moore Foundation through Grant GBMF3834 and by the Alfred P. Sloan Foundation
     through Grant 2013-10-27 to the University of California, Berkeley.
 
 as well as list the Berkeley Institute for Data Science as affiliation.
+All BIDS fellows are required to include the above acknowledgment regardless
+of whether BIDS covers the OA publishing fee.
 
 ## Other funding sources
 
 - Berkeley Research Impact Initiative (BRII)
   http://guides.lib.berkeley.edu/brii
+
+## UC Open Access Policies
+
+The UC Academic Senate Open Access Policy (see link below) requires
+all UC authors to post a postprint or the author's final version
+of any article after October 19, 2015 on eScholarship (http://uc-oa.info/deposit)
+or provide a link to an OA version elsewhere (if available).
+
+- http://osc.universityofcalifornia.edu/open-access-policy/
